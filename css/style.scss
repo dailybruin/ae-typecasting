@@ -5,9 +5,8 @@ $header-fonts: 'Passion One', sans-serif;
     width: 100%;
     display: block;
     background-image: url('../img/web.ae.typecasting.2.new.AYeo.jpg');
-    background-size: cover;
-    background-position: left;
-
+    background-position: top;
+    background-size:cover;
     &:before {
         content: '';
         position: absolute;
@@ -136,7 +135,7 @@ $header-fonts: 'Passion One', sans-serif;
     }
 
     #header{
-        background-image: url("../img/web.ae.typecasting.2.new.AYeo.jpg");
+        background-image: url("../img/header_mobile.jpg");
         background-position: right;
     }
 }
